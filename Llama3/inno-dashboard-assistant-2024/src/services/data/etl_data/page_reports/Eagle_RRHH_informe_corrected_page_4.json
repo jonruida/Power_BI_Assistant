@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del cuadro de mando se presentan indicadores clave de desempeño (KPIs) y un gráfico que analizan el ausentismo en el periodo reportado. Los KPIs reflejan el total de días de baja, el porcentaje de ausentismo, la relación de indefinidos frente al total, el importe de bonificaciones, el número total de empleados y la tasa de absentismo, así como la duración promedio de las ausencias. En total, se registraron 1933 días de baja, lo que se traduce en un 2.30% de ausentismo, indicando un nivel de salud y asistencia de la fuerza laboral. Además, el 75% de las ausencias son de categorías indefinidas, lo que sugiere áreas de mejora en la información reportada. El importe total de bonificaciones asciende a 139.273 €, reflejando las implicaciones financieras del ausentismo. La tasa de absentismo se cuantifica en 8125, y la duración promedio de las ausencias por empleado es de 1.809 días. El gráfico titulado 'Días de baja por año y mes' es un gráfico de líneas que muestra la tendencia del número total de días de baja a lo largo del tiempo. Este gráfico ilustra cómo el ausentismo varía mensualmente, revelando picos notables en ciertos meses que podrían estar relacionados con enfermedades estacionales o eventos específicos. La tabla 'Días de baja por centro de trabajo' proporciona un desglose del ausentismo por diferentes centros laborales, mostrando que el centro de trabajo 73 tuvo 409 días de baja, seguido de cerca por el centro de trabajo 5 con 406 días. La comparación con los meses anteriores y el mismo mes del año anterior indica que no ha habido variaciones significativas en los porcentajes de ausentismo en los diferentes centros de trabajo. En total, se reportaron 1.933 días de baja, lo que subraya la importancia de monitorear y gestionar el ausentismo en la organización.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 4 del Eagle_RRHH",
+        "Report_Id": "Eagle_RRHH",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 4,
+        "elements": {
+            "KPI": "Días de baja en el período",
+            "Table": "Días de baja por centro de trabajo",
+            "Chart": "Días de baja por año y mes",
+            "Other": ""
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe se presentan diversos indicadores clave de rendimiento (KPIs) y gráficos que permiten analizar el desempeño de la empresa en el sector farmacéutico. Los KPIs reflejan la evolución y la situación actual del mercado, así como la efectividad de las ventas y el contacto con clientes. A continuación, se detallan los KPIs detectados. El primer KPI es el 'Evolution Index', que muestra un valor de 99.3, con una referencia de 0.0, indicando que la tendencia de rendimiento se mantiene estable en comparación con el baseline. El segundo KPI es 'Productivity Units', que se sitúa en 699.391, con una ligera disminución del 0.6% respecto al periodo anterior, lo que sugiere una pequeña caída en la eficiencia de producción. El 'Market Size' se valora en 396.6 millones, con una disminución nominal del 0.2%, lo que refleja un leve retroceso en el tamaño del mercado. En cuanto a la 'Market Share', se reporta un 46.0%, con una disminución del 0.9%, lo que indica una ligera pérdida de cuota de mercado. Por otro lado, el KPI de 'Penetration' se encuentra en 33.5%, con una caída de 0.2%, sugiriendo que se ha alcanzado a un porcentaje menor de clientes objetivo. Las 'Sales Units' totalizan 2.3 millones, mostrando una disminución del 0.7%, lo que implica una baja en las unidades vendidas. El KPI de 'Sales Cash' revela ingresos de 182.4 millones, con un descenso del 0.9%, reflejando una caída en los ingresos por ventas. En cuanto a 'Sales vs Target', se reporta un 89.4%, con una reducción del 0.8%, lo que indica que se están alcanzando menos objetivos de ventas. El KPI '% Calls on Target' se sitúa en 49.1%, sin referencia, evaluando la efectividad de las llamadas de contacto. Por último, el 'Contact Rate' es de 4.6, y el 'Call Rate' se encuentra en 3.1, ambos sin referencia, indicando la actividad y efectividad de los representantes en sus intentos de contacto. En la sección de gráficos, se presenta el gráfico titulado 'Evolution by Product', que es un gráfico de líneas. Este gráfico muestra las métricas de 'Sales Growth' y 'Market Trend by Product', con valores que fluctúan entre 8 millones y 15 millones a lo largo del año, evidenciando picos de ventas en ciertos meses. Además, se incluye un gráfico de barras titulado 'Sales vs Target', que compara las 'Projected Sales' con las 'Actual Sales'. Los valores oscilan entre 5 millones y 25 millones, destacando periodos de bajo rendimiento y otros de sobrecumplimiento en las metas de ventas a lo largo del año.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 1 del Pharma",
+        "Report_Id": "Pharma",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 1,
+        "elements": {
+            "KPI": "Evolution Index",
+            "Table": "",
+            "Chart": "Evolution by Product",
+            "Other": ""
+        }
+    }
+}

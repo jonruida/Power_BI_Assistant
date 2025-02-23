@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del cuadro de mando se presentan diversos indicadores clave de desempeño (KPIs) que ofrecen una visión integral sobre la situación laboral dentro de la organización. Se destacan métricas relacionadas con la estabilidad laboral, la diversidad y la salud del personal, así como un análisis de la distribución de empleados por centros de trabajo. \n\nLos KPIs detectados incluyen el 'Nº Indefinidos', que muestra un total de 477 empleados indefinidos, lo que sugiere una estabilidad laboral significativa. Por otro lado, el 'Nº Sustitución' indica que hay 160 contratos de sustitución, reflejando la necesidad de cubrir temporalmente vacantes. El 'Índice indefinidos %' es del 75 %, lo que resalta la proporción de contratos indefinidos respecto al total de la fuerza laboral, subrayando la estabilidad en el empleo. En cuanto al 'Absenteísmo', este se sitúa en un 2.30 %, proporcionando una visión sobre la fiabilidad de la fuerza laboral. Además, el KPI de 'Discapacidad' muestra que solo el 0.04 % de los empleados tienen alguna discapacidad, lo que puede indicar áreas de mejora en términos de inclusión. El 'Importe bonificaciones' totaliza 139.273 €, sugiriendo un apoyo financiero considerable hacia los empleados. El total de empleados es de 666, mientras que los 'Nº Temporales' ascienden a 275, lo que indica una flexibilidad en las prácticas de empleo. Los contratos de corta duración ('Nº Contratos 1 - 6 días') son 323, y el total de contratos en un periodo determinado es de 682. Por último, el 'Índice de contratos %' se encuentra en un 26.75 %, destacando la proporción de contratos en relación con el tamaño de la fuerza laboral. \n\nEl gráfico titulado 'Nº Empleados indefinidos por año y mes' es un gráfico de líneas que muestra la tendencia de los empleados indefinidos desde enero de 2018 hasta octubre de 2019. Las métricas mostradas incluyen el total de empleados indefinidos, con valores que van desde 250 en enero de 2018 hasta un aumento constante que alcanza los 370 en octubre de 2019. Esta tendencia ascendente sugiere un aumento en la estabilidad laboral a lo largo del tiempo, lo que es un indicador positivo para la organización. \n\nFinalmente, la tabla titulada 'Centro de trabajo' proporciona un desglose detallado de los empleados indefinidos por centro de trabajo. Los datos revelan que el 'Centro de trabajo 5' tiene 80 empleados indefinidos, seguido por el 'Centro de trabajo 6' con 77, y así sucesivamente, hasta llegar a un total de 477 empleados indefinidos. La tabla también muestra que no ha habido variaciones porcentuales en comparación con el mes anterior ni con el año anterior, lo que sugiere una estabilidad en la distribución de los empleados entre los distintos centros de trabajo.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 8 del Eagle_RRHH",
+        "Report_Id": "Eagle_RRHH",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 8,
+        "elements": {
+            "KPI": "KPIs",
+            "Table": "Centro de trabajo",
+            "Chart": "Nº Empleados indefinidos por año y mes",
+            "Other": ""
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe se presentan diversos indicadores clave de rendimiento (KPIs) relacionados con la gestión de recursos humanos, así como un gráfico y una tabla que detallan las provisiones por convenio. Los KPIs reflejan aspectos críticos como la rotación de personal, el importe de provisiones y el número de trabajadores, proporcionando una visión clara del estado actual de la empresa. En particular, el KPI de 'Importe provisión' muestra un total de 202.710 €, lo que indica una cantidad significativa destinada a provisiones. El 'Índice de rotación (General)' se sitúa en un 20 %, mientras que el 'Índice de rotación (Específico)' es notablemente más alto, alcanzando un 43 %, lo que podría sugerir inestabilidad en algunos sectores de la empresa. Además, el 'Porcentaje de indefinidos' es del 75 %, lo que refleja una alta proporción de contratos estables. En cuanto a la tabla, se presenta el 'Importe provisión convenios', que detalla las provisiones por centro de trabajo, con un total de 202.709,50 €. La tabla muestra que el 'Centro de trabajo 6' tiene la mayor provisión con 24.752,68 €, mientras que otros centros presentan cifras más bajas, pero sin variaciones porcentuales significativas respecto a meses anteriores. El gráfico titulado 'Importe provisión convenio por año y mes' es un gráfico de líneas que ilustra la tendencia de las provisiones a lo largo del tiempo, mostrando fluctuaciones con picos que alcanzan cerca de 20.000 € entre enero de 2018 y julio de 2019, lo que permite visualizar claramente la evolución de este indicador a lo largo de los meses.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 9 del Eagle_RRHH",
+        "Report_Id": "Eagle_RRHH",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 9,
+        "elements": {
+            "KPI": "Importe provisión",
+            "Table": "Importe provisión convenios",
+            "Chart": "Importe provisión convenio por año y mes",
+            "Other": ""
+        }
+    }
+}

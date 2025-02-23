@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe se presenta un análisis detallado de las operaciones de ventas a través de diversas métricas y visualizaciones. Se incluyen indicadores clave de rendimiento (KPIs), gráficos que representan la distribución de facturas por moneda y la evolución del tipo de cambio USD/EUR, así como una tabla que resume las facturas totales por moneda. \n\nEl KPI destacado en esta página es el 'Average Exchange USD/EUR', que tiene un valor de 1.137654. Este indicador no presenta una referencia específica, pero su descripción señala que representa el tipo de cambio promedio entre el USD y el EUR, lo que indica el valor actual del USD en relación al EUR. Este KPI es crucial para entender el contexto de las transacciones en diferentes monedas. \n\nEn cuanto a los gráficos, se presenta un gráfico de barras titulado 'Invoice by Currency', que compara las facturas emitidas en distintas monedas: EUR, TRL y USD. Los valores mostrados son 77.558 mil para EUR, 1.428 mil para TRL y 5.613 mil para USD, lo que revela que la mayoría de las facturas están en EUR, con un valor significativo, seguido de USD y una cantidad mínima en TRL. Además, se incluye un gráfico de líneas titulado 'Rated used in Invoice by Week', que muestra las tasas de conversión de USD a EUR a lo largo de varias semanas. Los valores de las tasas de conversión oscilan entre 1.05 y 1.25, mostrando una tendencia de aumento gradual en el tiempo, lo que indica un fortalecimiento del USD frente al EUR. Esta tendencia es relevante para interpretar el impacto de las fluctuaciones del tipo de cambio en las facturas. \n\nFinalmente, se presenta una tabla titulada 'Invoice Summary by Currency', que resume las facturas totales emitidas por moneda, destacando que el EUR domina el total de facturas con 77.558 mil, seguido por USD con 5.613 mil y TRL con 1.428 mil. Esta tabla complementa la información visualizada en los gráficos, proporcionando un resumen claro de la distribución de las facturas por moneda.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 5 del Eagle_Ventas",
+        "Report_Id": "Eagle_Ventas",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 5,
+        "elements": {
+            "KPI": "Average Exchange USD/EUR",
+            "Table": "Invoice Summary by Currency",
+            "Chart": "Invoice by Currency",
+            "Other": "Rated used in Invoice by Week"
+        }
+    }
+}

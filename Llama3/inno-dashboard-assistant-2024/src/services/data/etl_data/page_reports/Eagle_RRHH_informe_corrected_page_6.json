@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe de Power BI, se presentan diversos indicadores clave de rendimiento (KPIs) que proporcionan una visión detallada del estado de los recursos humanos. Se destacan métricas relacionadas con las horas trabajadas, ausencias y la composición del personal. Entre los KPIs más relevantes se encuentra el total de horas contratadas, que asciende a 21.586.524, lo que refleja la suma total de horas laborales acumuladas. Además, se reportan 112.382 horas asociadas a vacaciones, lo que indica el tiempo destinado al descanso de los empleados. Las horas ausentes totalizan 135.332, mientras que las horas por otras ausencias son 36.525, lo que sugiere un nivel significativo de ausentismo. En cuanto a la productividad, se han producido 21.302.284 horas, lo que representa las horas activas que contribuyen a la producción. También se incluye el importe de bonificaciones, que es de 139.273 €, y se reporta un total de 666 empleados. La estabilidad de la fuerza laboral se refleja en el 75 % de empleados indefinidos respecto al total, y se observa un índice de ausentismo del 2,30 %, así como un 0,04 % de empleados con discapacidad, lo que refleja un esfuerzo por la inclusión en el entorno laboral. En la sección de gráficos, se presenta un gráfico de líneas titulado 'Total horas contratadas por año y mes'. Este gráfico muestra la tendencia de las horas contratadas desde enero de 2018 hasta octubre de 2019, evidenciando un crecimiento constante en las horas laborales a lo largo del tiempo, lo que sugiere un aumento en la actividad contractual. Por último, se incluye una tabla titulada 'Total horas contratadas por centro de trabajo', que detalla las horas contratadas distribuidas por diferentes centros de trabajo. La tabla revela que el centro de trabajo 73 tiene el mayor total de horas contratadas, con 3.912.814, seguido por el centro de trabajo 6 con 3.292.058 horas. Esta distribución permite obtener una visión clara de la actividad en cada centro y cómo se asignan las horas de trabajo entre ellos.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 6 del Eagle_RRHH",
+        "Report_Id": "Eagle_RRHH",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 6,
+        "elements": {
+            "KPI": "Total horas contratadas",
+            "Table": "Total horas contratadas por centro de trabajo",
+            "Chart": "Total horas contratadas por año y mes",
+            "Other": ""
+        }
+    }
+}

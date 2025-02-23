@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe de Power BI, se presentan indicadores clave de rendimiento (KPIs) y gráficos que analizan el desempeño de las ventas, así como una tabla detallada de datos de ventas por cliente. Los KPIs reflejan cambios significativos en las ventas de los 30 principales clientes en comparación con el año anterior. El primer KPI, titulado 'Top 30 Increase', muestra un valor de 200.69 mil, haciendo referencia al incremento en las ventas en comparación con el año anterior, lo que indica un crecimiento notable en esta área. Por otro lado, el KPI 'Top 30 Decrease' presenta un valor de -107.60 mil, señalando una disminución en las ventas de los mismos clientes respecto al año anterior, lo que resalta áreas que requieren atención y mejora. En cuanto a los gráficos, se incluyen tres visualizaciones. El gráfico titulado 'Net Amount YTD vs PYTD by Customer' es un gráfico de barras que compara las cifras de ventas acumuladas hasta la fecha (YTD) del año actual con las del año anterior para cada cliente. Los valores mostrados indican que algunos clientes han tenido un desempeño significativamente mejor en el año actual en comparación con el anterior, mientras que otros han visto una caída en sus ventas. El segundo gráfico, 'Top 30 Increase', también es un gráfico de barras que ilustra el aumento en las ventas de los 30 principales clientes, diferenciando entre las facturas del año actual y del año anterior. Los datos sugieren que hay un crecimiento en las ventas para varios clientes, lo que es un indicador positivo. Finalmente, el gráfico 'Top 30 Decrease' muestra la disminución en las ventas de los 30 principales clientes, destacando las diferencias entre las facturas del año actual y las del año anterior, lo que resalta potenciales riesgos en el rendimiento de ventas. La tabla titulada 'Customer Sales Data' proporciona una visión detallada de las ventas por cliente, mostrando las facturas del año actual, las del año anterior y la diferencia entre ambas. Los datos de la tabla revelan que varios clientes han experimentado caídas significativas en sus ventas, lo que coincide con las tendencias observadas en los KPIs y gráficos, sugiriendo que hay áreas críticas que necesitan atención para mejorar el rendimiento general de las ventas.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 2 del Eagle_Ventas",
+        "Report_Id": "Eagle_Ventas",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 2,
+        "elements": {
+            "KPI": "Top 30 Increase, Top 30 Decrease",
+            "Table": "Customer Sales Data",
+            "Chart": "Net Amount YTD vs PYTD by Customer, Top 30 Increase, Top 30 Decrease",
+            "Other": ""
+        }
+    }
+}

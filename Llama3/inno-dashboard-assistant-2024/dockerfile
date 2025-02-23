@@ -1,0 +1,43 @@
+# Usa la imagen base de qdrant
+FROM qdrant/qdrant:v1.12.3
+
+# Actualizar e instalar wget
+RUN apt update && apt upgrade -y && apt install -y wget && rm -rf /var/lib/apt/lists/*
+# Copiar archivos de ejecución 
+COPY requirements.txt ./requirements.txt
+
+# Instalar Miniconda
+RUN wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda.sh && \
+    bash ~/miniconda.sh -b -p /opt/conda && \
+    rm ~/miniconda.sh
+
+# Añadir conda a PATH
+ENV PATH="/opt/conda/bin:${PATH}"
+ENV PYTHONUNBUFFERED=1
+
+# Configurar conda y Python
+RUN conda config --set always_yes yes --set show_channel_urls true && \
+    conda config --add channels defaults
+RUN conda create -n pbi-chatbot python=3.11
+RUN echo "source activate pbi-chatbot" > ~/.bashrc
+ENV PATH=/opt/conda/envs/pbi-chatbot/bin/:$PATH
+# ENV OPENAI_API_KEY = $OPENAI_API_KEY
+# ENV UPDATE_DATA_PAGE = $UPDATE_DATA_PAGE
+
+RUN pip install -r ./requirements.txt
+
+RUN python -c "from transformers import AutoTokenizer, AutoModel; AutoModel.from_pretrained('BAAI/bge-m3'); AutoTokenizer.from_pretrained('BAAI/bge-m3')"
+
+COPY src ./src
+COPY app ./app
+COPY assets ./assets
+
+
+# Establecer el usuario root para ejecutar Qdrant con privilegios
+USER root
+
+# Comando para ejecutar Qdrant y la aplicación Python (en segundo plano)
+# ENTRYPOINT ["/bin/bash", "-c","./entrypoint.sh & cd ./app && python run_app.py"]
+# EXPOSE 6333 8501
+
+ENTRYPOINT ["/bin/bash", "-c", "/qdrant/qdrant --uri http://0.0.0.0:6333 & sleep 45 && python -m app.run_app"]

@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe se presentan indicadores clave de rendimiento (KPIs) y visualizaciones que reflejan el desempeño del mercado farmacéutico. Los KPIs muestran mejoras en las tasas de contacto y llamadas, así como un aumento en la cuota de mercado. Los gráficos complementan esta información, ilustrando tendencias y distribuciones relevantes a través de diferentes métricas y regiones. La tabla de análisis territorial proporciona un desglose de las ventas y el crecimiento en diversas provincias, permitiendo una comprensión más profunda del panorama competitivo. \n\nLos KPIs detectados incluyen el 'Call Rate', que se sitúa en 419, superando la referencia de 400, lo que indica una mejora en la interacción con los clientes. El 'Contact Rate' también muestra un incremento, alcanzando 417 frente a un baseline de 410, lo que sugiere una efectividad mejorada en el alcance. Finalmente, la 'Market Share' se encuentra en 46%, un aumento respecto al 45% de referencia, lo que refleja un avance positivo en la captura del mercado. Estos indicadores resaltan un desempeño favorable en comparación con los valores de referencia establecidos. \n\nEn cuanto a las visualizaciones, el gráfico titulado 'F2F Activity', que es un gráfico de líneas, muestra las métricas de 'Call Rate' y 'Contact Rate'. Los valores se distribuyen desde 400 hasta 419, evidenciando una tendencia ascendente constante a lo largo del año 2023, lo que sugiere un aumento en la actividad. Por otro lado, el gráfico 'SVT Market Share', también un gráfico de líneas, representa la cuota de mercado con valores que oscilan entre 45% y 48%. Este gráfico indica una tendencia general al alza, a pesar de algunas fluctuaciones menores, lo que sugiere un rendimiento consistente en la captura de mercado. Finalmente, el gráfico 'Growth by Province' es un mapa geográfico que ilustra las tasas de crecimiento en diferentes provincias, mostrando variaciones significativas, desde -3.9% hasta 4.4%. Este gráfico resalta las regiones que están experimentando crecimiento y declive, proporcionando una representación visual clara de la distribución del rendimiento en el territorio. \n\nLa tabla titulada 'Territory Analysis' ofrece un análisis detallado de las ventas y el crecimiento porcentual en varias provincias. Incluye columnas que detallan las provincias, las ventas de SGO, el porcentaje de crecimiento, los competidores y el porcentaje de crecimiento de la cuota de mercado. Los datos revelan que, mientras algunas provincias como Murcia muestran un crecimiento positivo del 4.4%, otras como Madrid y Cádiz presentan decrementos, lo que permite identificar áreas de oportunidad y desafío en el mercado.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 2 del Pharma",
+        "Report_Id": "Pharma",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 2,
+        "elements": {
+            "KPI": "Call Rate",
+            "Table": "Territory Analysis",
+            "Chart": "F2F Activity",
+            "Other": ""
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe se presentan indicadores clave de rendimiento (KPIs), gráficos y tablas que ofrecen una visión integral sobre las ventas en efectivo y su crecimiento en el sector farmacéutico. Los KPIs destacan el desempeño general de las ventas, mientras que los gráficos y tablas proporcionan un análisis más detallado de los datos por cliente y región. En primer lugar, se observan dos KPIs significativos. El primero es 'Total Cash Sales', que muestra un valor de 4,000,000, representando las ventas totales en efectivo a través de todos los clientes durante el período de reporte. Este KPI es fundamental para entender la liquidez del negocio. El segundo KPI, 'Average Cash Growth%', presenta un valor de -45.1%, indicando una disminución significativa en el crecimiento de las ventas en efectivo en comparación con el período anterior, lo que sugiere un desempeño general negativo que requiere atención. A continuación, se analizan los gráficos. El primer gráfico, titulado 'Cash Sales vs Total Activity by Sanibrick', es un gráfico de dispersión que muestra la correlación entre las ventas en efectivo y la actividad total de diversos clientes. Las métricas mostradas son 'Cash Sales' y 'Total Activity', con valores que oscilan entre 0 y 25. Se observa una tendencia donde una mayor actividad generalmente se correlaciona con un aumento en las ventas en efectivo, aunque hay algunos clientes que se comportan como outliers. El segundo gráfico, 'Bottom 5 Customers by Cash Growth%', es un gráfico de barras que ilustra a los cinco clientes con peor desempeño en términos de crecimiento de efectivo. Las métricas mostradas son 'Customer' y 'Growth Percentage', con valores que indican porcentajes negativos de crecimiento. Este gráfico destaca a clientes como 'Dr. Ruiz Dor' con -52.3% y 'Dr. Kora Dor' con -54.1%, sugiriendo que estos clientes necesitan atención especial para mejorar su actividad de compra. Finalmente, se presentan dos tablas que complementan el análisis. La primera tabla, 'Cash Sales by Region', resume las ventas en efectivo por región, proporcionando información sobre los clientes, su potencial, calificaciones y cifras de ventas. La segunda tabla, 'Sales and Activity Deep Dive', ofrece un análisis detallado de las métricas de ventas y actividad por estado, permitiendo una comparación del rendimiento de ventas y el compromiso del cliente en diferentes regiones. En conjunto, esta página del informe proporciona una visión clara de las áreas que requieren atención y oportunidades para mejorar el desempeño en ventas.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 6 del Pharma",
+        "Report_Id": "Pharma",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 6,
+        "elements": {
+            "KPI": "Total Cash Sales",
+            "Table": "Cash Sales by Region",
+            "Chart": "Cash Sales vs Total Activity by Sanibrick",
+            "Other": "Bottom 5 Customers by Cash Growth%"
+        }
+    }
+}

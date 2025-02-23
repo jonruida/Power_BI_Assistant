@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe correspondiente al cuadro de mando de Recursos Humanos, se presentan una serie de indicadores clave de rendimiento (KPIs) que ofrecen una visión general del estado actual del departamento. Estos KPIs son esenciales para evaluar la gestión de recursos humanos y la eficiencia operativa de la organización. Entre los KPIs destacados se encuentran la Masa Salarial, que representa el gasto total en salarios durante el periodo, el Absentismo, que mide el porcentaje de ausencias de los empleados, y las Horas Hombre, que contabilizan el total de horas trabajadas. Además, se incluye información sobre las Vacaciones, el número de Contratos activos y otra Información relevante relacionada con el área de recursos humanos. Todos estos indicadores son presentados en un formato de tabla que facilita su comprensión y análisis. La tabla titulada 'Resumen de Indicadores' resume los KPIs mencionados junto con sus valores visibles, proporcionando una visión clara de las métricas de los empleados. La tabla incluye columnas para el Indicador y su Valor, y destaca la importancia de cada uno en el contexto de la gestión de recursos humanos, permitiendo a los responsables tomar decisiones informadas basadas en estos datos.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 1 del Eagle_RRHH",
+        "Report_Id": "Eagle_RRHH",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 1,
+        "elements": {
+            "KPI": "Masa Salarial",
+            "Table": "Resumen de Indicadores",
+            "Chart": "",
+            "Other": ""
+        }
+    }
+}
