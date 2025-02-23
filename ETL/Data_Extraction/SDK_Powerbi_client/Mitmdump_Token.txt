@@ -1,0 +1,19 @@
+Configura mitmproxy:
+
+Asegúrate de que tu sistema o dispositivo esté configurado para usar el proxy de mitmproxy (mitmdump es la versión en línea de comandos).
+Instala el certificado raíz de mitmproxy en el dispositivo si es necesario (esto es obligatorio para interceptar tráfico HTTPS).
+El comando básico para iniciar la captura de tráfico es:
+bash
+Copiar código
+mitmdump -w powerbi_capture.log
+
+Una vez que hayas capturado el tráfico, puedes revisar el archivo de captura:
+bash
+Copiar código
+mitmdump -nr powerbi_capture.log
+
+Si deseas filtrar específicamente las líneas que contienen "Bearer", lo que es típico de los tokens de autenticación, puedes hacer:
+
+powershell
+Copiar código
+Select-String -Path "powerbi_capture.log" -Pattern "Bearer"

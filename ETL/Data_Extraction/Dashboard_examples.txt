@@ -1,0 +1,22 @@
+Power_BI API connection:
+
+Sin credenciales: https://github.com/kulwinderkk/webscraping/blob/main/Improved%20script%20for%20PowerBI%20Webscraping.ipynb
+
+
+
+Selenimun mitmproxy
+
+
+
+
+
+
+
+Dashboard open examples:
+
+https://app.powerbi.com/view?r=eyJrIjoiNzA0MGM4NGMtN2E5Ny00NDU3LWJiNzMtOWFlMGIyMDczZjg2IiwidCI6IjM4MmZiOGIwLTRkYzMtNDEwNy04MGJkLTM1OTViMjQzMmZhZSIsImMiOjZ9&pageName=ReportSection
+
+https://app.fabric.microsoft.com/view?r=eyJrIjoiZmM3YWJjNzItNTk3YS00MGE2LTgzMTEtOGY4MmJmYmQzODFmIiwidCI6IjM0YTgyYjJlLTZkYzEtNDI4OS04MDAwLWMxOGE5ZTMzOWE5ZCJ9
+
+Insights:
+https://learn.microsoft.com/en-us/power-bi/create-reports/insights

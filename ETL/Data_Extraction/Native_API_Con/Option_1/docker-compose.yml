@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  powershell:
+    image: mcr.microsoft.com/powershell:latest
+    container_name: powershell_container
+    command: pwsh -NoExit -Command "Install-Module -Name MicrosoftPowerBIMgmt -Force -Scope CurrentUser"
+    volumes:
+      - ./scripts:/scripts
+    working_dir: /scripts
+
