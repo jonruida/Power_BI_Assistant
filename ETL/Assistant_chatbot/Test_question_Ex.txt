@@ -1,0 +1,53 @@
+
+1.1 Preguntas de Extracción de Datos
+
+¿Cual es el cliente con mayor margen?
+ 
+¿Cual es el cliente con mayor número de dias de baja?
+
+¿Qué valores presentan la "Edad Media" y "Antigüedad Media" "?
+ 
+
+1.2 Un poco más difíciles
+
+¿Cual es el cliente en el que el absentismo genera un mayor gasto? 
+
+Proporcione un resumen de los dias de baja por centro de trabajo.
+
+Mencione los KPIs que mejor describen las ventas de Eagle.
+
+
+2. Preguntas de Detección de Reporte
+
+
+¿En eue página o cuadro de mando puedo encontrar los días de baja"?
+
+¿Qué indicador mide el impacto en la plantilla de las bonificaciones,si es que existe un indicador para ello en que cuadro de mando o página puedo encontrarlo?
+
+¿Qué KPI situado en que página o cuadro de mando podría reflejar la efectividad de las bonificaciones ofrecidas a los empleados?
+
+
+3. Preguntas de Insight General
+
+
+¿Cuáles son las tendencias más destacadas en el reporte de Power BI "Eagle_RRHH" en términos de ausentismo y costos laborales?
+
+¿Qué información clave proporciona el valor de indemización por despido en el contexto de la gestión de recursos humanos?
+
+¿Cómo se compara el nivel de ausentismo actual con el promedio del último año en el reporte "Eagle_RRHH"?
+
+¿Cuáles son los indicadores más críticos que se deben monitorear para mejorar la eficiencia de los recursos humanos según el reporte "Eagle_RRHH"?
+
+
+4. Preguntas Ambiguas
+
+En un informe que menciona tanto el "Índice de rotación" de empleados como las "Ventas por Región", ¿qué factores considerarías para determinar cuál de estos indicadores tiene un mayor impacto en la rentabilidad de la empresa?
+("Eagle_RRHH" y "Eagle_Ventas").
+
+Si encuentras un KPI sobre "Costos de formación de empleados" junto con "Incremento en ventas por campaña", ¿cómo decidirías cuál es más relevante para mejorar la eficiencia general de la empresa?
+("Eagle_RRHH" y "Eagle_Ventas").
+
+Cuando un informe se centra en la productividad, ¿qué métricas buscarías para evaluar el desempeño global de la empresa, independientemente de la naturaleza específica del reporte?
+
+En un contexto donde se analiza la evolución de la tecnología de la empresa, ¿cómo podrías determinar que tipo de enfoque tenemos?
+
