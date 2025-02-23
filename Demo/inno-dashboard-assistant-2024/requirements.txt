@@ -1,0 +1,17 @@
+slacker==0.14.0
+qdrant-client==1.12.1
+pillow==11.0.0
+openai==1.54.4
+python-dotenv==0.21.0
+tqdm==4.66.5
+langchain_community==0.3.7
+langchain-openai==0.2.8
+langchain-qdrant==0.2.0
+lark==1.2.2
+streamlit==1.40.1
+flask==3.1.0
+flashrank==0.2.9
+streamlit-card==1.0.2
+Markdown==3.7
+markdown-pdf==1.3
+

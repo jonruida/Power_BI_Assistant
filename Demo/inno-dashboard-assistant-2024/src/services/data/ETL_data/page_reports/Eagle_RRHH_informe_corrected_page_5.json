@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe se presentan diversos indicadores clave de rendimiento (KPIs) relacionados con el costo de la nómina por absentismo, así como un gráfico que ilustra la tendencia de estos costos a lo largo del tiempo. Los KPIs ofrecen una visión clara del impacto financiero del absentismo en la organización, mientras que el gráfico proporciona un análisis visual de las variaciones en los costos a lo largo de los meses y años. En total, se identifican seis KPIs relevantes. El primero es el KPI titulado 'Importe', que muestra un valor de 372.787 €, sin referencia adicional, y describe el costo total en nómina relacionado con el absentismo, indicando el impacto financiero total en la organización. El segundo KPI, 'Coste personal total', presenta un valor de 16.236,96 €, también sin referencia, y refleja el costo total de personal, lo que resalta el gasto general asociado a la compensación de los empleados. El tercer KPI, 'Índice Absentismo', tiene un valor de 2,30%, sin referencia, y mide la tasa de absentismo, indicando el porcentaje de empleados ausentes en relación con la plantilla total. El cuarto KPI, 'Complemento IT', muestra un valor de 121.378 €, sin referencia, y representa la compensación financiera adicional para empleados en baja médica, lo que refleja el compromiso de la empresa con el apoyo a los empleados durante ausencias por motivos de salud. El quinto KPI, 'Importe bonificaciones', presenta un valor de 139.273 €, sin referencia, y indica el monto total de bonificaciones otorgadas, destacando incentivos financieros adicionales que contribuyen al bienestar de los empleados. Por último, el KPI titulado '# Empleados' muestra un valor de 666, sin referencia, y resalta el número total de empleados en la organización, proporcionando una idea del tamaño de la fuerza laboral. En cuanto a los gráficos, se presenta un gráfico titulado 'Importe por año y mes', que es un gráfico de líneas. Este gráfico muestra la métrica 'Importe' y presenta valores de 10.000 €, 15.000 €, 20.000 € y 25.000 €. La visualización ilustra la tendencia de los costos por absentismo a lo largo del tiempo, segmentada por mes y año. Se observan picos en ciertos meses de 2018 y principios de 2019, lo que indica períodos de mayores costos por absentismo. Esta información es crucial para entender las fluctuaciones en los costos y planificar estrategias para reducir el absentismo en el futuro.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 5 del Eagle_RRHH",
+        "Report_Id": "Eagle_RRHH",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 5,
+        "elements": {
+            "KPI": "Importe",
+            "Table": "Centro de trabajo",
+            "Chart": "Importe por año y mes",
+            "Other": ""
+        }
+    }
+}

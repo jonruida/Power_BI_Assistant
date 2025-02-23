@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del reporte se presentan varios KPIs clave que reflejan el rendimiento de las actividades de ventas y comunicación. Los KPIs permiten evaluar el compromiso en las interacciones y el desempeño en ventas en comparación con el año anterior. El primer KPI, titulado 'Call Frequency', tiene un valor de 0.68, lo que indica un nivel de compromiso en las llamadas realizado. Este KPI no tiene referencia comparativa. El segundo KPI, 'Sales Cash Sales Cash LY', muestra un valor de 248,934,463, que es ligeramente inferior al total del año anterior de 249,424,711, lo que sugiere una disminución en las ventas en efectivo. El tercer KPI, 'Total Phone Calls', reporta un total de 1,882,031 llamadas realizadas, mientras que el cuarto KPI, 'Total Face-to-Face Interactions', indica que se han llevado a cabo 61,689 interacciones cara a cara. Ambos KPIs no presentan referencias comparativas. Además, se incluye una tabla titulada 'Sales Cash', que proporciona una visión integral de varios métricas de ventas, incluyendo llamadas telefónicas, interacciones cara a cara y ventas en efectivo, comparando el rendimiento actual con periodos anteriores. La tabla contiene datos que muestran un total de 1,398,885 llamadas telefónicas y 300.27 en interacciones cara a cara, con un total de ventas en efectivo de 19,257, en comparación con 19,586 del año anterior. También se reportan 110,837 llamadas y 616.68 en interacciones, con ventas en efectivo de 5,586, comparado con 5,469 del año anterior. Finalmente, la tabla muestra un total de 372,161,297 en ventas, con 61,689 interacciones cara a cara y 2,910,953 en ventas en efectivo, comparado con 2,924,318 del año anterior. Estos datos ofrecen una visión clara de las variaciones en el rendimiento de ventas y las interacciones en el periodo actual.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 8 del Pharma",
+        "Report_Id": "Pharma",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 8,
+        "elements": {
+            "KPI": "Call Frequency",
+            "Table": "Sales Cash",
+            "Chart": "N/A",
+            "Other": "N/A"
+        }
+    }
+}

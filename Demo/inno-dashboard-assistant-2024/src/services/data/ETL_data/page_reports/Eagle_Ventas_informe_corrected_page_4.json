@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe de Power BI, se presentan indicadores clave de rendimiento (KPIs) y un gráfico que analizan el desempeño de ventas y márgenes por familia de productos. Los KPIs reflejan tanto los ingresos totales como los costos y márgenes, proporcionando una visión clara de la rentabilidad general. En cuanto a los gráficos, se muestra un análisis visual de los márgenes porcentuales por familia de productos, lo que permite identificar las áreas de mayor y menor rendimiento. Además, se incluye una tabla que detalla los costos y márgenes por cliente y familia de productos, lo que permite una evaluación más granular del desempeño comercial.\n\nLos KPIs detectados en esta página incluyen el 'Total Invoice', que representa un monto total facturado de 109.054.020, lo que indica un fuerte desempeño de ventas. El 'Total Cost' es de 41.513.317, lo que sugiere que los costos asociados a estas ventas son significativos. El 'Total Margin' se sitúa en 67.540.703, lo que indica un margen de ganancia considerable. Finalmente, el 'Overall Margin %' es del 61,93 %, lo que muestra una rentabilidad saludable en comparación con el total de facturación. Estos KPIs reflejan un rendimiento positivo en términos de ingresos y márgenes, destacando la eficiencia en la gestión de costos.\n\nEn cuanto al gráfico titulado 'Margin % by Product Family', se presenta un gráfico de barras que ilustra los porcentajes de margen de ganancia a través de diversas familias de productos. Las métricas mostradas incluyen familias como 'Breakaway Mobile', que lidera con un impresionante margen del 89,26 %, y 'Battery Mobile', que presenta el margen más bajo con un 43,03 %. La distribución de los márgenes revela que la mayoría de las familias de productos tienen márgenes superiores al 60 %, lo que sugiere un desempeño sólido en términos de rentabilidad. Este análisis visual complementa los datos de la tabla, que proporciona información detallada sobre el costo y margen por cliente, permitiendo a los analistas identificar oportunidades de mejora y áreas de éxito en la estrategia de ventas.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 4 del Eagle_Ventas",
+        "Report_Id": "Eagle_Ventas",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 4,
+        "elements": {
+            "KPI": "Total Invoice",
+            "Table": "Cost & Margin by Customer and Product Family",
+            "Chart": "Margin % by Product Family",
+            "Other": ""
+        }
+    }
+}

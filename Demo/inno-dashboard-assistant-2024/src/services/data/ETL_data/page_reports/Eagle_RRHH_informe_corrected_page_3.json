@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe se presentan diversos indicadores clave de rendimiento (KPIs) relacionados con la gestión de recursos humanos y un gráfico que ilustra la evolución de los sueldos y salarios a lo largo del tiempo. Los KPIs proporcionan una visión general de los costos asociados al personal, mientras que el gráfico permite observar tendencias en los gastos salariales. \n\nSe han detectado varios KPIs significativos. El primero es 'Sueldos y Salarios', con un valor total de 12.398.128 €, que representa el gasto total en nómina, lo que indica una carga financiera considerable para la organización. Otro KPI relevante es 'Atrasos', con un valor de 190.383 €, que refleja retrasos en los pagos, sugiriendo posibles problemas en la gestión de nómina. También se reporta un 'Bonus' de 385.528 €, que indica los incentivos adicionales otorgados a los empleados. En términos de indemnizaciones, se presentan 'Indemn. totales' con 39.403 €, 'Indemn. despido' con 27.392 € y 'Indemn. finalización' con 12.012 €, lo que ofrece una visión clara de los costos asociados con la terminación de contratos. Además, el 'Coste S.S.' asciende a 3.838.837 €, lo que es crucial para entender las obligaciones adicionales del empleador. Los atrasos en el coste de la seguridad social se sitúan en 60.295 €, y el coste de la seguridad social relacionado con los bonus es de 10.699 €. También se destaca el importe de bonificaciones de 139.273 €, el número total de empleados que es de 666, y la proporción de empleados indefinidos que es del 75 %. Finalmente, se observa un 'Absentismo' del 2,30 % y una tasa de 'Discapacidad' del 0,04 %, lo que es relevante para las métricas de inclusión y asistencia. \n\nEl gráfico titulado 'Sueldos y Salarios por año y mes' es un gráfico de líneas que muestra la evolución de los gastos salariales a lo largo del tiempo. Las métricas mostradas se centran en los 'Salaries over time', con valores que oscilan desde 350.000 hasta 650.000 en el periodo de enero de 2018 a julio de 2019. Este gráfico revela una tendencia de crecimiento constante en los gastos salariales, sugiriendo una expansión o estabilidad en la nómina, con fluctuaciones que podrían indicar contrataciones estacionales o la entrega de bonificaciones. Esta información es complementaria a los datos presentados en la tabla que detalla los sueldos y salarios por centro de trabajo, permitiendo un análisis más profundo de las variaciones en los costos salariales entre diferentes áreas de la organización.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 3 del Eagle_RRHH",
+        "Report_Id": "Eagle_RRHH",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 3,
+        "elements": {
+            "KPI": "Sueldos y Salarios",
+            "Table": "Centro de trabajo",
+            "Chart": "Sueldos y Salarios por año y mes",
+            "Other": ""
+        }
+    }
+}

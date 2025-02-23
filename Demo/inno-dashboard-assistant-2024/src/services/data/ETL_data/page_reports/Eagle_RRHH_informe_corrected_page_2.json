@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe se presentan diversos indicadores clave de rendimiento (KPIs), un gráfico de barras y tablas que ofrecen una visión detallada del estado de los recursos humanos en la organización. Los KPIs reflejan aspectos fundamentales como el porcentaje de empleados con contratos indefinidos, la tasa de absentismo y otros datos relevantes que permiten evaluar el clima laboral y la gestión del personal. Además, se incluye un gráfico que ilustra las horas contratadas por centro de trabajo, así como tablas que analizan los días de baja y la plantilla mensual. \n\nLos KPIs detectados incluyen el KPI titulado 'Indefinidos vs Total', que muestra un valor del 75%, indicando que el 75% de los empleados tienen contratos indefinidos, lo que sugiere una estabilidad laboral en la organización. Otro KPI relevante es 'Absentismo', con un valor de 2.30%, que refleja una tasa de asistencia adecuada, mientras que el KPI 'Discapacidad' indica que solo el 0.04% de los empleados tiene alguna discapacidad, lo que podría señalar áreas de mejora en la inclusión. El KPI 'Importe bonificaciones' presenta un valor de 139,273 €, lo que evidencia el apoyo financiero que la organización proporciona a sus empleados. Además, los KPIs 'Antigüedad Media' y 'Edad Media' muestran valores de 4.29 años y 36.65 años respectivamente, proporcionando información sobre la experiencia y la demografía del personal. \n\nEl gráfico titulado 'Top 10 Horas Contratadas por Centro' es un gráfico de barras que muestra las métricas de horas contratadas para los diez centros de trabajo principales. Las métricas mostradas incluyen los centros de trabajo del 1 al 10, con valores que oscilan entre 101.20% y 102.24%. Este gráfico revela que el 'Centro de trabajo 1' tiene la mayor proporción de horas contratadas, alcanzando un 102.24%, mientras que los otros centros se mantienen cerca del 101%, sugiriendo una carga de trabajo bastante uniforme entre ellos. Esto puede indicar una buena distribución de las horas de trabajo y la capacidad de los centros para manejar sus cargas laborales. \n\nLas tablas proporcionan un análisis más profundo de la situación laboral. La tabla 'Días de baja en el mes por Puesto' detalla el número de días de baja por puesto, con un total de 1,933 días. 'Puesto de trabajo 2' destaca con 491 días de baja, lo que podría señalar la necesidad de atención en esa área. Por otro lado, la tabla 'Análisis de Plantilla mes' ofrece una visión mensual de la plantilla, mostrando una plantilla media de 532.80, con 721 altas y 902 bajas, lo que indica un alto nivel de rotación y la necesidad de estrategias para mejorar la retención de personal.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 2 del Eagle_RRHH",
+        "Report_Id": "Eagle_RRHH",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 2,
+        "elements": {
+            "KPI": "Indefinidos vs Total",
+            "Table": "Análisis de Plantilla mes",
+            "Chart": "Top 10 Horas Contratadas por Centro",
+            "Other": "Días de baja en el mes por Puesto"
+        }
+    }
+}

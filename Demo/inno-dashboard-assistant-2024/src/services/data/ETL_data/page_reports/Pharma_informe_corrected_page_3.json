@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe se presentan indicadores clave de rendimiento (KPIs) y visualizaciones gráficas que reflejan el desempeño del mercado en la industria farmacéutica durante el año 2023. Se destacan métricas relevantes como el crecimiento del mercado y la participación promedio del mismo, así como diversas representaciones gráficas que ilustran tendencias y comparaciones mensuales. Los KPIs detectados incluyen 'Total Market Growth', que muestra un crecimiento del 0.5%, indicando un incremento modesto en el mercado en general, y 'Average Market Share', que se sitúa en un 46.0%, reflejando la participación promedio de los productos a lo largo del año. Estos indicadores son cruciales para entender la dinámica del mercado y evaluar el rendimiento de los productos en comparación con el año anterior.\n\nLos gráficos presentados incluyen un 'Line Chart' titulado 'Growth evolution', que muestra las tendencias de crecimiento de los productos 4, 5 y 6 a lo largo de los meses de 2023. Los valores indican un crecimiento positivo para el Producto 4 con 1,000 mil, mientras que los Productos 5 y 6 presentan caídas significativas, con valores de 0 mil y -1,000 mil, respectivamente. Esto sugiere que mientras el Producto 4 ha tenido un buen desempeño, los otros productos han enfrentado desafíos en el mercado. Otro gráfico, también un 'Line Chart', titulado 'Market Share Growth (p.p.)', ilustra las variaciones en el crecimiento de la participación de mercado en puntos porcentuales para los mismos productos. Los valores oscilan entre 0.6 y -0.7, lo que indica fluctuaciones en la competitividad de los productos a lo largo del año, con un descenso notable en el crecimiento de mercado para algunos meses.\n\nAdemás, se presenta un 'Bar Chart' titulado 'Market by Company', que muestra las participaciones de mercado de diferentes compañías en el sector de dermatología. Los porcentajes varían entre 45.4% y 47.9%, evidenciando una competencia relativamente equilibrada entre las empresas a lo largo de los meses. Finalmente, el 'Waterfall Chart' titulado 'Market Performance' representa el desempeño del mercado en términos de SGD y volumen, con valores que van de 0.9 a 0.0, lo que sugiere una tendencia a la baja en el rendimiento a medida que avanza el año. En conjunto, estos elementos proporcionan una visión integral del comportamiento del mercado y la posición de los productos dentro de él, permitiendo a los analistas identificar áreas de oportunidad y mejora.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 3 del Pharma",
+        "Report_Id": "Pharma",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 3,
+        "elements": {
+            "KPI": "Total Market Growth, Average Market Share",
+            "Table": "Actuals",
+            "Chart": "Growth evolution, Market Share Growth (p.p.), Market by Company, Market Performance",
+            "Other": ""
+        }
+    }
+}

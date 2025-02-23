@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe se presentan indicadores clave de rendimiento (KPIs) y visualizaciones que analizan el backlog de pedidos, tanto del año actual como del anterior, proporcionando una visión clara del estado de las operaciones. Se destacan dos KPIs principales: el 'Backlog Current Year (CY)', que muestra un total de 22.419.351 unidades, y el 'Backlog Previous Year (FY)', que reporta 719.391 unidades. Este contraste entre el backlog actual y el del año anterior es significativo, ya que resalta un aumento considerable en el volumen de pedidos pendientes, lo que sugiere una demanda creciente y la necesidad de ajustar la producción y la planificación de recursos. Además, se incluyen gráficos que ilustran la distribución del backlog por región y continente. El gráfico titulado 'Backlog by Country', que utiliza un mapa, muestra cómo se distribuye el backlog geográficamente, destacando que América del Norte y Europa son las regiones con mayores volúmenes de pedidos pendientes. Por otro lado, el gráfico de tipo 'Pie Chart' titulado 'Backlog by Continent' segmenta el backlog por continente, revelando que Europa tiene la mayor proporción con 11.358.768 unidades, seguida por América del Norte con 9.353.772 unidades y Asia con 1.200.000 unidades. Esto indica que la demanda no satisfecha está concentrada principalmente en Europa y América del Norte, lo que puede influir en las decisiones estratégicas de la empresa. Finalmente, se presenta una tabla titulada 'Backlog by Customer Class', que detalla el backlog según diferentes clases de clientes. En esta tabla se observa que el cliente 'Foreigner' tiene la mayor contribución con 9.353.772 unidades, seguido por 'Customer 2495' con 3.063.626 unidades. La tabla proporciona un análisis más profundo sobre cómo diferentes clientes afectan el total del backlog y puede ayudar a priorizar esfuerzos de atención y cumplimiento de pedidos.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 3 del Eagle_Ventas",
+        "Report_Id": "Eagle_Ventas",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 3,
+        "elements": {
+            "KPI": "Backlog Current Year (CY)",
+            "Table": "Backlog by Customer Class",
+            "Chart": "Backlog by Country",
+            "Other": "Backlog by Continent"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe se presentan datos clave sobre el rendimiento del mercado farmacéutico, con un enfoque en las ventas y la participación de mercado a través de varios KPIs y visualizaciones. Los KPIs destacados incluyen el Total de Ventas, que asciende a 8,045,309, lo que refleja un sólido desempeño del mercado en general, y la Participación de Mercado Promedio, que es del 41.75%, indicando una posición competitiva estable entre las empresas del sector. Estos indicadores son esenciales para comprender la salud financiera del mercado y su evolución a lo largo del tiempo. En cuanto a los gráficos, se incluyen cuatro visualizaciones que ilustran diferentes aspectos del rendimiento de ventas y la participación de mercado. El gráfico de barras titulado 'Crecimiento de Ventas por Provincia' muestra un crecimiento de ventas negativo en la Provincia A con un valor de -465,143, mientras que la Provincia B destaca con un crecimiento positivo de 1,928,506. Esto sugiere que hay provincias que están experimentando un desempeño desigual en el crecimiento de las ventas. Por otro lado, el gráfico de dispersión 'Participación de Mercado por Empresa' revela que la empresa líder tiene una participación de mercado significativamente mayor, con un 50%, en comparación con otras que rondan entre el 29% y el 49%. En el gráfico de barras 'Ventas del Mercado por Provincia', se observa que la Provincia A lidera con ventas de 3,764,038, mientras que la Provincia D muestra el valor más bajo con 1,230,507, lo que resalta las diferencias en la demanda del mercado en las distintas provincias. Finalmente, el gráfico de líneas 'Participación de Mercado por Provincia' muestra cómo la participación de mercado ha fluctuado con el tiempo, evidenciando cambios en las preferencias del consumidor y la competencia. Esta variedad de visualizaciones y KPIs proporciona una visión integral del estado actual del mercado y su dinámica entre las provincias.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 4 del Pharma",
+        "Report_Id": "Pharma",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 4,
+        "elements": {
+            "KPI": "Total Sales",
+            "Table": "Sales Data by Province",
+            "Chart": "Sales Growth by Province",
+            "Other": "Market Share by Company, Market Sales by Province, Market Share by Province"
+        }
+    }
+}

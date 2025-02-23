@@ -1,0 +1,10 @@
+{
+    "contenido": "El reporte 'Europe_Sustainability' presenta un análisis detallado de las emisiones de carbono y el volumen de compras en Europa, con fecha del 23 de septiembre de 2024, abarcando un total de 10 páginas. A lo largo del informe, se destacan los KPIs más relevantes, que incluyen las emisiones de carbono en diferentes categorías (Scope 1, 2 y 3) y su comparación con los años anteriores. En general, se observa un aumento del 3% en las emisiones totales en comparación con el año base, aunque algunas categorías, como las emisiones de Scope 2, han mostrado una disminución significativa del 40% respecto al año base. El informe también resalta que las emisiones de transporte han aumentado un 24% y las emisiones de empaques han crecido un 23%, lo que indica áreas críticas que requieren atención. En términos de volumen de compras, se ha mantenido estable en 2.69 millones de toneladas métricas. A nivel regional, Ucrania se destaca como el mayor emisor con 1.25 millones de toneladas de CO2, mientras que Francia muestra una reducción del 10% en sus emisiones. Los gráficos y tablas proporcionan una visualización clara de las tendencias de emisiones a lo largo de los años, así como la distribución de las emisiones por categoría y región. En conclusión, aunque se han logrado reducciones en algunas áreas, el informe indica la necesidad de implementar estrategias más efectivas para alcanzar los objetivos de sostenibilidad establecidos, especialmente en las categorías que han mostrado aumentos en las emisiones.",
+    "metadata": {
+        "Title": "Resumen general 'Europe_Sustainability'",
+        "Report_Id": "Europe_Sustainability",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23"
+    }
+}

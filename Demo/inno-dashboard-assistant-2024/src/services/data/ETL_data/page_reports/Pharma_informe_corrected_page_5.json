@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe se presentan diversos indicadores clave de rendimiento (KPIs) y visualizaciones gráficas que permiten evaluar el desempeño del equipo en la adquisición de clientes y la actividad general. Los KPIs analizados ofrecen una visión clara de los costos, la efectividad de las actividades y el cumplimiento de los objetivos establecidos. Se incluyen gráficos que ilustran la asignación del tiempo entre territorios y la actividad por empleado, complementados por una tabla que clasifica a los empleados según su rendimiento en ventas y actividades. \n\nLos KPIs detectados en esta página incluyen el CPA, que se sitúa en un 77.6%, lo que indica que el porcentaje de costos asociados a la adquisición de nuevos clientes es significativo. El Activity Rate, con un valor de 4.6, refleja un nivel positivo de actividades productivas realizadas por el equipo. El Contact Rate, que se encuentra en 3.1, sugiere una efectividad moderada en los esfuerzos de contacto con clientes potenciales. Además, el Target Coverage es del 100%, lo que significa que todas las regiones objetivo han sido alcanzadas por las actividades. Finalmente, el Total Activity muestra una proporción de 202 actividades completadas de un objetivo de 294, lo que indica un avance considerable hacia los objetivos planteados. \n\nEn cuanto a las visualizaciones, el gráfico titulado 'Territory Time Allocation' es un gráfico de barras que presenta las métricas de 'Employee Totals', 'Working Days' y 'Days Off', con valores de 4 mil, 2 mil y 0 mil, respectivamente. Este gráfico ilustra cómo se distribuye el tiempo entre los días laborales y los días libres, evidenciando que la mayor parte del tiempo está destinado a actividades laborales. Por otro lado, el gráfico 'Activity by Employee' es un gráfico de líneas que muestra el porcentaje de llamadas en objetivo y la tasa de contacto a lo largo del tiempo, con valores que varían entre 10 y 40. Este gráfico permite observar tendencias en el rendimiento de los empleados, destacando que algunos empleados tienen un mayor porcentaje de llamadas en objetivo, lo que sugiere un enfoque más efectivo en sus actividades. \n\nFinalmente, la tabla 'Employee Ranking' resume el rendimiento de los empleados, mostrando sus ventas, actividades, actividades planificadas, tasa de llamadas y frecuencia. Los datos reflejan que 'Mar Dr Madar' se posiciona como el mejor empleado, seguido por 'Nae Dr Madar' y 'Meh Dr Bader', lo que facilita la evaluación del desempeño y la identificación de áreas de mejora.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 5 del Pharma",
+        "Report_Id": "Pharma",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 5,
+        "elements": {
+            "KPI": "CPA",
+            "Table": "Employee Ranking",
+            "Chart": "Territory Time Allocation",
+            "Other": "Activity by Employee"
+        }
+    }
+}

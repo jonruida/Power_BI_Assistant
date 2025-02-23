@@ -1,0 +1,17 @@
+{
+    "contenido": "Esta página del informe de Power BI se centra en la gestión de recursos humanos, proporcionando una visión integral sobre los días de vacaciones devengados y disfrutados por los empleados, así como su impacto financiero. Los indicadores clave de rendimiento (KPIs) presentados ofrecen una perspectiva clara sobre el uso de las vacaciones, los costos asociados y la estabilidad del personal. En total, se han detectado diversos KPIs que reflejan tanto el comportamiento de los empleados en relación a sus días de vacaciones como las implicaciones económicas de estos días. Entre los KPIs destacados, el 'Nº días devengados' muestra un total de 125.873 días, lo que indica un alto nivel de acumulación de días de vacaciones. El 'Coste días devengados' asciende a 5.677.198,1 €, lo que resalta el impacto financiero significativo de estas acumulaciones. Por otro lado, el 'Nº días disfrutados' es de 14.459, sugiriendo que, aunque hay una gran acumulación, la utilización efectiva de estos días es relativamente baja. El 'Índice de sustitución' se sitúa en un 56,57 %, lo que indica una tasa moderada de reemplazo de empleados, y el 'Absenteísmo' es del 2,30 %, lo que sugiere un nivel aceptable de asistencia. En cuanto a la tabla presentada, se detalla la acumulación de días de vacaciones por puesto de trabajo en el 'Centro de trabajo 5', mostrando que el puesto de trabajo 2 tiene la mayor acumulación con 12.178,39 días, mientras que otros puestos presentan cifras significativamente menores. La comparación con el mes anterior y el año anterior muestra que no ha habido variaciones en estos días, lo que puede ser un indicativo de estabilidad en la gestión de vacaciones. Finalmente, el gráfico titulado 'Nº días devengados de vacaciones por año y mes', que es un gráfico de líneas, ilustra la tendencia de los días devengados a lo largo del tiempo. Los valores mostrados en el gráfico reflejan picos en ciertos meses, lo que sugiere que hay periodos específicos en los que los empleados tienden a acumular más días de vacaciones, lo que podría estar relacionado con la estacionalidad en el uso de días de descanso.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 7 del Eagle_RRHH",
+        "Report_Id": "Eagle_RRHH",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 7,
+        "elements": {
+            "KPI": "Nº días devengados",
+            "Table": "Centro de trabajo 5",
+            "Chart": "Nº días devengados de vacaciones por año y mes",
+            "Other": ""
+        }
+    }
+}

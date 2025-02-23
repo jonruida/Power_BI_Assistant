@@ -1,0 +1,17 @@
+{
+    "contenido": "En esta página del informe se presentan indicadores clave de rendimiento (KPIs) y visualizaciones gráficas que proporcionan una visión clara del desempeño de las ventas en el año actual. Los KPIs reflejan un notable descenso en las facturas, mientras que los gráficos desglosan la información por familia de productos, clase de clientes y clientes individuales, permitiendo un análisis detallado de las contribuciones al total de facturas. Además, se incluye una tabla que compara las facturas del año actual con las de años anteriores, evidenciando una tendencia preocupante. En primer lugar, se destacan dos KPIs importantes. El primero es el KPI titulado 'Invoice CY', que muestra un valor de 1.658.553. Este KPI presenta una referencia de -98.48%, lo que indica una disminución drástica en comparación con períodos anteriores. Esto sugiere una caída significativa en las ventas en el año actual. El segundo KPI es 'Backlog CY', que tiene un valor de 22.419.351 y no presenta una referencia, lo que implica que hay un volumen considerable de facturas pendientes por procesar. A continuación, se presentan tres gráficos que ilustran la distribución de las facturas del año actual. El primer gráfico, titulado 'Top 5 Invoice CY by Product Family', es un gráfico circular que muestra las métricas de las familias de productos. Las métricas incluyen 'Breakaway Mobile', 'Battery mobile', 'Other Com.', 'Human Generated' y 'Miscellaneous', con valores de 12.58%, 11%, 13.78%, 33.66% y 28.98% respectivamente. Este gráfico revela que la categoría 'Human Generated' es la que más contribuye al total de facturas, representando el 33.66%. El segundo gráfico, 'Top 5 Invoice CY by Customer Class', también es un gráfico circular que ilustra la distribución de las facturas por clase de clientes. Las métricas mostradas son 'Foreigner', 'Intra-Community EU', 'Intra-Community' y 'Foreigner Group', con valores de 41.87%, 5.9%, 24.15% y 13.23%. Este gráfico destaca que los clientes 'Foreigner' representan la mayor parte de las facturas, con un 41.87%. Por último, el gráfico titulado 'Top 5 Invoice CY by Customers' muestra la contribución de los principales clientes. Las métricas son 'Customer 775', 'Customer 788', 'Customer 774' y 'Customer 1664', con valores de 13.23%, 35.36%, 17.54% y 18.98%. Aquí, 'Customer 788' es el que más contribuye, con un 35.36% de las facturas. Finalmente, se presenta la tabla 'Invoice Year to Day', que compara las facturas del año actual con las de los tres años anteriores. En esta tabla, se observa que las facturas del año actual son de 1.658.553, en contraste con 109.054.000 del año anterior, 111.824.000 del penúltimo año y 118.282.000 del antepenúltimo. Este análisis resalta una disminución significativa en las facturas del año actual en comparación con los años anteriores, lo que refuerza la preocupación por la caída en las ventas.",
+    "metadata": {
+        "Title": "Resumen Cuadro de Mando Página 1 del Eagle_Ventas",
+        "Report_Id": "Eagle_Ventas",
+        "insertion_year": "2024",
+        "insertion_month": "09",
+        "insertion_day": "23",
+        "page": 1,
+        "elements": {
+            "KPI": "Invoice CY",
+            "Table": "Invoice Year to Day",
+            "Chart": "Top 5 Invoice CY by Product Family",
+            "Other": "Top 5 Invoice CY by Customer Class, Top 5 Invoice CY by Customers"
+        }
+    }
+}
